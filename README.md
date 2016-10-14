@@ -10,6 +10,8 @@ Check testserver,
 
 request test-key simply by email 
 
+Check Wiki for more info [https://github.com/softwareengel/railservices/wiki](https://github.com/softwareengel/railservices/wiki)
+
 ## Demo requests route 
 
 ### 2 Points
